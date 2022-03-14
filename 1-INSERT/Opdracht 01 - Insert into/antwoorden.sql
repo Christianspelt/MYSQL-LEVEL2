@@ -1,0 +1,7 @@
+-- Opdracht 1 (LETOP: 6 INSERT INTO statements inleveren)
+INSERT INTO studenten (`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES( 1,'harry','jansen','1c','dorpstraat 15','2415 RD','2005-06-24','nieuwveen');
+INSERT INTO studenten (`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES( 2,'Piet','jan','1c','kerkstraat 10','2300 ht','2004-11-22','nooreinde');
+INSERT INTO studenten (`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES(3, 'Fred','Fred','1c','fred 33','6371 UI','2005-06-24','nieuw fred');
+INSERT INTO studenten (`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES(4, 'Christian','Spelt','1c','uiterbuurtweg 13','2441 EA','2004-07-25','nieuwveen');
+INSERT INTO studenten (`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES(5, 'hendrik','fonf','1c','flings 89','1513 IO','2005-05-24','zevenhoof');
+INSERT INTO studenten (`student_id`, `voornaam`, `achternaam`, `klas`, `adres`, `postcode`, `geboortedatum`, `woonplaats`) VALUES( 6, 'hans','rood','1c','blauwrijgerpad','1024 RD','2005-06-24','appledoorn');
